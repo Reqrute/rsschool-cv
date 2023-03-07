@@ -1,1 +1,1 @@
-https://Reqrute.github.io/rsschool-cv/cv
+https://Reqrute.github.io/rsschool-cv
